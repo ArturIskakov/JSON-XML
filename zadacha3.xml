@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <Фантастика>
+        <Веном>
+            <producer>Рубен Фляйшер</producer>
+            <duration>112</duration>
+            <date>2018</date>
+            <rating>9</rating>
+        </Веном>
+        <Обливион>
+            <producer>Джозеф Косински</producer>
+            <duration>124</duration>
+            <date>2013</date>
+            <rating>10s</rating>
+        </Обливион>
+    </Фантастика>
+    <Триллер>
+        <name>Паразиты</name>
+        <producer>Пон Чжун Хо</producer>
+        <duration>132</duration>
+        <date>2019</date>
+        <rating>10</rating>
+    </Триллер>
+    <Боевик>
+        <name>Никто</name>
+        <producer>Илья Найшуллер</producer>
+        <duration>92</duration>
+        <date>2021</date>
+        <rating>9</rating>
+    </Боевик>
+    <Детектив>
+        <name>Девушка в поезде</name>
+        <producer>Тейт Тейлор</producer>
+        <duration>112</duration>
+        <date>2016</date>
+        <rating>7</rating>
+    </Детектив>
+    <Комедия>
+        <name>Один дома</name>
+        <producer>Крис Коламбус</producer>
+        <duration>103</duration>
+        <date>1990</date>
+        <rating>8</rating>
+    </Комедия>
+</catalog>
